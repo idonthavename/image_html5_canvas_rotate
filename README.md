@@ -1,0 +1,2 @@
+# image_html5_canvas_rotate
+进行移动端手机照片上传时，发现ios手机上传竖拍照片会逆时针旋转90度，横拍照片无此问题；Android手机没这个问题。mark一下
